@@ -90,8 +90,21 @@ Pentru a rula checkerul, trebuie creat un fisier MAKEFILE cu reguli de build, cl
   **ATENTIE:** Regula de run trebuie sa execute programul cu parametrii din linia de comanda,
   prin intermediul variabilei **$(var)**. Un exemplu de fisier MAKEFILE pentru o solutie implementata
   in C++ se afla in arhiva.
-
-
+  
+   ## Trimitere solutii
+ Solutiile se evalueaza automat. Ele vor fi trimise pe [vmchecker](https://elf.cs.pub.ro/vmchecker) la sectiunea **CDL 2019**. 
+ 
+  ### Limbaje suportate:
+  * C/C++
+  * python2/python3
+  * Java (8)
+  * Javascript (Node.js)
+  * Ruby
+  * Perl
+  
+  **NOTA:** Pentru includerea altor limbaje de programare, pentru neclaritati sau sugestii, puteti deschide un **Issue** de [aici](https://github.com/rosedu/problema-cdl-2019/issues/new) sau de la sectiunea **Issues**.
+  
+  
 
 
 
