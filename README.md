@@ -53,7 +53,7 @@ quick-algebra
 sorting  
 
 ### `./kevin ML.txt quicksort.paint youtube.database randomwords.org.4d`
-### __Input `stdio`__ :
+### __Input `stdin`__ :
 sort  
 alg  
 di  
